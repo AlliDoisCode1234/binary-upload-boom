@@ -23,4 +23,3 @@
 - Any logged in user can add comment to post on the global feed
 - User can upload profile picture to their profile
 - Overall application theme and styling
-
